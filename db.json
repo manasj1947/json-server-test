@@ -1,0 +1,14 @@
+{
+"data": {
+"apiKey": "bottegabotfb31aa",
+"headerTitle": "Book Massage hellooooo!",
+"headerBackgroundColor": "#f06292",
+"headerTextColor": "#525252",
+"chatResponseColor": "#e91e63",
+"chatResponseTextColor": "#f8bbd0",
+"logoUrl": "https://s3.us-west-2.amazonaws.com/botcontent.botco.ai/DEFAULT-1/deploy_webBotIcon_1566112836178.png",
+"botUrl": "https://s3.us-west-2.amazonaws.com/botcontent.botco.ai/DEFAULT-1/deploy_webBotIcon_1566112836178.png",
+"welcomeMessage": "lorem ipsum",
+"welcome_intent": "GET_STARTED"
+}
+}
